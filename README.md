@@ -1,2 +1,2 @@
-# lessons
-lessons divided by week
+# Lessons
+Lessons and notes divided by week.

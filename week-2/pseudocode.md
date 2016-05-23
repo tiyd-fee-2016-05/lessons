@@ -1,3 +1,5 @@
+TEST
+
 # Pseudo Code
 
 Pseudo code is fake code. It's often helpful to break a problem down without

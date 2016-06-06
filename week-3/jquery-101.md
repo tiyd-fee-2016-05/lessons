@@ -205,7 +205,7 @@ See here for more detail:
 
 - http://api.jquery.com/category/manipulation/
 
-## Interactive element shtuffs
+## Interactive element stuff
 
     `$('input[name=firstName]').val();`
     `$('input').focus();`

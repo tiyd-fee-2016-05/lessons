@@ -1,5 +1,5 @@
 # jQuery 101 or:
-# jQuery is really cool
+# jQuery is really cool. It's so cool.
 
 ## I know you love vanilla JavaScript but...
 

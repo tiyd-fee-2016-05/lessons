@@ -43,26 +43,16 @@ So you want to get an element by ID?
 Vanilla JavaScript:
 
 ```javascript
-var button = document.getElementByID("the-button")
+var button = $("#the-button");
 ```
 
 jQuery:
 
 ```javascript
-var button = $("#the-button");
+var button = document.getElementByID("the-button")
 ```
 
 ## Or maybe you want to...
-
-Vanilla JavaScript:
-```javascript
-var games = ["BioShock", "Assassin's Creed", "Mass Effect"];
-
-for (var index = 0; index < games.length; index++) {
-  var game = games[index];
-
-  console.log("I played " + game)
-};
 
 ```
 jQuery:
@@ -73,6 +63,16 @@ $.each(games, function(index, game) {
   console.log("I played " + game);
 });
 ```
+
+Vanilla JavaScript:
+```javascript
+var games = ["BioShock", "Assassin's Creed", "Mass Effect"];
+
+for (var index = 0; index < games.length; index++) {
+  var game = games[index];
+
+  console.log("I played " + game)
+};
 
 ## Or maybe even...
 

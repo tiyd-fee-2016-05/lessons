@@ -1,6 +1,6 @@
 # Firebase
 
-Firebase allows you to deploy full applications without server code. Cool!
+Firebase allows you to deploy full applications, and is "a cloud services provider and backend as a service company."
 
 Firebase recently launched a [new shiny website!](https://firebase.google.com/) You will sign in/create an account with Google credentials.
 
@@ -8,7 +8,7 @@ Firebase recently launched a [new shiny website!](https://firebase.google.com/) 
 
 # Using Firebase
 
-Firebase provides a lot of powerful resources for web developers. Let's explore Firebase's hosting capabilities and [deploy a project.](https://firebase.google.com/docs/hosting/)
+Firebase provides a lot of powerful resources for web developers. Let's explore Firebase's hosting service and [deploy a project.](https://firebase.google.com/docs/hosting/)
 
 
 # Further Resources

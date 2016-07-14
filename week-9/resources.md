@@ -9,6 +9,14 @@
 ## Color scheme design
 * [Design-Seeds](http://design-seeds.com)
 * [Color Scheme Designer](http://colorschemedesigner.com/csd-3.5/)
+* [LOL Colors](http://www.lolcolors.com/?ref=producthunt)
+* [Palette Color Resources](https://www.producthunt.com/@tart/collections/color-palette)
+
+## Images for Sites
+* [Unsplash](https://unsplash.com/)
+* [Death to the Stock Photo](http://deathtothestockphoto.com/)
+* [Gratisography](http://www.gratisography.com/)
+* [Life of Pix](http://www.lifeofpix.com/)
 
 ## CSS and Typography
 * [Optimal line-lengths](http://baymard.com/blog/line-length-readability)
@@ -21,7 +29,6 @@
 ## AngularJS & ReactJS
 * [AngularJS Egghead.io](https://egghead.io/technologies/angularjs)
 * [ReactJS Tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-
 
 ## UX/UI
 * [UX Myths](http://uxmyths.com/)

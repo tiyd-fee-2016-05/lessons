@@ -6,7 +6,7 @@
 * [Get Skeleton](http://getskeleton.com/)
 * [Susy](http://susy.oddbird.net/)
 
-## Color scheme design:
+## Color scheme design
 * [Design-Seeds](http://design-seeds.com)
 * [Color Scheme Designer](http://colorschemedesigner.com/csd-3.5/)
 
@@ -18,8 +18,10 @@
 * [Google Type Project](http://femmebot.github.io/google-type/)
 * [TypeWolf](https://www.typewolf.com/)
 
-## AngularJS
-* [Egghead.io](https://egghead.io/technologies/angularjs)
+## AngularJS & ReactJS
+* [AngularJS Egghead.io](https://egghead.io/technologies/angularjs)
+* [ReactJS Tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+
 
 ## UX/UI
 * [UX Myths](http://uxmyths.com/)
@@ -33,8 +35,9 @@
 * [MicroJS List of Libraries](http://microjs.com/#)
 * [You Don't Know JS Book Series](https://github.com/getify/You-Dont-Know-JS)
 
-## Node
+## Node & MEAN Stack
 * [NodeSchool](nodeschool.io)
+* [MEAN Stack](http://mean.io/#!/)
 
 ## Interviewing
 * [Weekly Coding Interview Problems](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter?a=a&utm_source=coderbyte)
@@ -42,4 +45,6 @@
 * [JavaScript Interview Questions](http://www.toptal.com/javascript/interview-questions)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [7 Funny Datasets] (http://blog.yhathq.com/posts/7-funny-datasets.html)
-Free resources for designers:
+
+## Cool Sites for Tech
+* [Product Hunt](https://www.producthunt.com/collections)
